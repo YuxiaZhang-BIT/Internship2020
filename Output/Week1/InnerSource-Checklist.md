@@ -1,5 +1,5 @@
 # 公司实施内源的检查列表
-
+*翻译自《Understanding the InnerSource Checklist》* 
 1. 准备
   - 个人
     - 你认为内源对你的公司来说是一个可行的策略，还是仅仅出于意识形态上的承诺和理想主义？
