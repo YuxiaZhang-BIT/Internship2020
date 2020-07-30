@@ -1,0 +1,19 @@
+# 在Europace中应用开源实践
+***出自“Adopting InnerSource”***
+1. 寻找新的组织方式
+
+2. 开始InnerSource之旅
+  - 为什么InnerSource
+  - InnerSource实验
+3. InnerSource执行步骤
+  - 让人们加入InnerSource
+  - 通过案例指引
+4. InnerSource规则
+  - InnerSource结果
+  - 一年后InnerSource
+5. InnerSource挑战
+  - 在书写式沟通中建立信任关系
+  - 扩展InnerSource
+  - 引入其他发哦开发者的同事
+  - 跨越开放API和开源的边界
+6. 结论和未来
