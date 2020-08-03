@@ -1,5 +1,5 @@
 # 公司实施内源的检查列表
-*翻译自《Understanding the InnerSource Checklist》* 
+*翻译自[《Understanding the InnerSource Checklist》](https://innersourcecommons.org/checklist/)* 
 1. 准备
   - 个人
     - 你认为内源对你的公司来说是一个可行的策略，还是仅仅出于意识形态上的承诺和理想主义？
@@ -18,7 +18,7 @@
       - 项目模块化程度是否足以使代码变得容易和安全吗？
       - 代码的文档健全吗？
     - 现有过程
-      - 可以频发发布吗？
+      - 可以频繁发布吗？
       - 是否有持续测试和集成机制？
       - 是否所有的代码都存储在使得分支请求和集成变得容易的版本控制库中，比如GitHub？
   - 团队
