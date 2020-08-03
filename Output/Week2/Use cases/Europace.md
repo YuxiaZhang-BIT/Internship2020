@@ -1,5 +1,5 @@
 # 在Europace中应用开源实践
-***出自“Adopting InnerSource”***
+***出自[“Adopting InnerSource”](https://innersourcecommons.org/resources/books/adoptinginnersource/)***
 1. 寻找新的组织方式
 
 2. 开始InnerSource之旅
@@ -14,10 +14,10 @@
     - 通过关联issue和相关的讨论以及最后形成的commit，使关于代码的讨论更接近于代码库
 3. InnerSource执行步骤
   - 让人们加入InnerSource
-    - 识别了四类可能会被InnerSurce影响的人：
-      - 在InnerSurce计划之前，已经独立领导过这些工作的人
-      - 可能阻碍InnerSurce的人
-      - 可能会以热情和喜悦迎接InnerSurce的人
+    - 识别了四类可能会被InnerSource影响的人：
+      - 在InnerSource计划之前，已经独立领导过这些工作的人
+      - 可能阻碍InnerSource的人
+      - 可能会以热情和喜悦迎接InnerSource的人
       - 对公司的历史和创业背景、潜在障碍和效益非常了解的人
     - 通过与相关人员一对一谈话了解他们的立场，解释InnerSource可能带来的好处，了解他们的顾虑（以随意的方式进行）
     - 将感兴趣的开发者，团队领导，项目经理聚到一起进行非正式会谈
@@ -50,7 +50,7 @@
 5. InnerSource挑战
   - 在书写式沟通中建立信任关系
   - 扩展InnerSource
-  - 引入其他发哦开发者的同事
+  - 引入其他非发开发者的同事
   - 跨越开放API和开源的边界
 6. 结论和未来
   - 团队中拥有开源经验的人会有很大帮助
