@@ -4,11 +4,11 @@
 >
 > > Capraro等人（一个德国的InnerSource研究团队）发表在Mining Software Repositories 2018上的文章“[The patch-flow method for measuring inner source collaboration](https://www.researchgate.net/profile/Michael_Dorner/publication/326562219_The_patch-flow_method_for_measuring_inner_source_collaboration/links/5b83fb8f92851c1e1235980e/The-patch-flow-method-for-measuring-inner-source-collaboration.pdf)”中提出了一种基于Patch Flow度量InnerSource协作的方法。文中将Patch定义为外部开发者对项目提交的代码贡献，如下图所示。组织单元会随着不同公司组织结构以及实施内源的项目所属团队有所变化。
 > >
-> > <img src="https://github.com/noname2018/Internship2020/blob/master/Output/Week5/figur/patch flow.png" width="50%">
+> > <img src="https://github.com/noname2018/Internship2020/blob/master/Output/Week5/figure/patch%20flow.png" width="50%">
 >
 > > 公司内部一般都会有明确的组织部分划分。Capraro等人在度量内源协作时也将公司的组织结构考虑进来，其方法可以对不同粒度上的内源协作进行度量。下图是在分别是在粗粒度和细粒度展示内源协作。构建不同的Patch流图允许实践者和管理者可以分析公司不同等级的团队间的内源协作。 
 > >
-> > <img src="https://github.com/noname2018/Internship2020/blob/master/Output/Week5/figur/lidu.png" width="80%">
+> > <img src="https://github.com/noname2018/Internship2020/blob/master/Output/Week5/figure/lidu.png" width="80%">
 >
 > ​	*上图出自“The patch-flow method for measuring inner source collaboration”*
 >
