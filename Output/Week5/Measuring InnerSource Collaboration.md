@@ -37,15 +37,21 @@
    
 2. 实验方法
   
+   - 
+   
    > 我们使用社交网络分析（Social Network Analysis）对公司内源团队在开发过程中发生的协作进行可视化。
+   >
+   > 
    
-   - 我们的粒度按照公司的组织结构由低到高依次进行。实践者可以限定特定的组织级别进行研究。
+   - 内源团队协作可视化：
    
-   - 节点与节点之间的边表示Patch流，由Commit所有者指向代码接收方。边的权重代表Commit的个数。
+     - 粒度按照公司的组织结构由低到高依次进行。实践者可以限定特定的组织级别进行研究。
    
-   - 不同于Capraro等人仅考虑跨团队的Patch流，对任一内源项目，我们将团队内开发者对其做贡献也量化在社交网络图中。因为通过对比团队内Patch流（不协作）和团队间Patch流也可以作为项目内源化的一个度量，如下图所示。
+     - 节点与节点之间的边表示Patch流，由Commit所有者指向代码接收方。边的权重代表Commit的个数。
    
-     <img src="https://github.com/noname2018/Internship2020/blob/master/Output/Week5/figure/commit-net.png" width="50%">
+     - 不同于Capraro等人仅考虑跨团队的Patch流，对任一内源项目，我们将团队内开发者对其做贡献也量化在社交网络图中。因为通过对比团队内Patch流（不协作）和团队间Patch流也可以作为项目内源化的一个度量，如下图所示。
+   
+       <img src="https://github.com/noname2018/Internship2020/blob/master/Output/Week5/figure/commit-net.png" width="50%">
    
    - 个体开发者协作可视化：
    
