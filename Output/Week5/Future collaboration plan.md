@@ -9,6 +9,7 @@
    - 合作切入点5: 采用InnerSource的案例研究-效果和挑战
    - 合作切入点6: 采用InnerSource的开发团队间协作的度量和评估
 - 合作切入点7: InnerSource环境下产生的价值该如何捕获和度量？
-   
+  
 3. InnerSource成熟阶段：
    - 合作切入点4: 采用InnerSource项目的健康实时监测
+
